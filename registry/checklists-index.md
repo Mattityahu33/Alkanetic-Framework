@@ -1,20 +1,14 @@
 # Checklists Index
 
-**Status:** Placeholder — Not Yet Populated
-**Last Updated:** 2026-08-02
+**Status:** Active
+**Last Updated:** 2026-11-22
 
 ---
 
-This index will list all approved checklists in the Alkanetic Framework.
+This index lists checklists in the Alkanetic Framework.
 
-## Format
+## Registered documents
 
-| ID     | Title             | Section    | Status   | Last Updated |
-| ------ | ----------------- | ---------- | -------- | ------------ |
-| CL-001 | Example Checklist | checklists | approved | YYYY-MM-DD   |
-
----
-
-## Registered Checklists
-
-_No checklists registered yet._
+| ID | Resource | Status | Last updated |
+| --- | --- | --- | --- |
+| CL-DEP-001 | [Cloudflare Workers release checklist for Next.js](../checklists/cloudflare-workers-nextjs.md) | review | 2026-11-22 |

@@ -1,20 +1,14 @@
 # Guides Index
 
-**Status:** Placeholder — Not Yet Populated
-**Last Updated:** 2026-08-02
+**Status:** Active
+**Last Updated:** 2026-11-22
 
 ---
 
-This index will list all approved guides in the Alkanetic Framework.
+This index lists guides in the Alkanetic Framework.
 
-## Format
+## Registered documents
 
-| ID     | Title         | Section | Status   | Last Updated |
-| ------ | ------------- | ------- | -------- | ------------ |
-| GD-001 | Example Guide | section | approved | YYYY-MM-DD   |
-
----
-
-## Registered Guides
-
-_No guides registered yet._
+| ID | Resource | Status | Last updated |
+| --- | --- | --- | --- |
+| DEP-GD-001 | [Cloudflare Workers and Next.js quick start](../deployment/cloudflare-workers-nextjs-quickstart.md) | review | 2026-11-22 |

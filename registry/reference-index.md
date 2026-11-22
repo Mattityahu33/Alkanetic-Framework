@@ -1,20 +1,14 @@
 # Reference Documents Index
 
-**Status:** Placeholder — Not Yet Populated
-**Last Updated:** 2026-08-02
+**Status:** Active
+**Last Updated:** 2026-11-22
 
 ---
 
-This index will list all approved reference documents in the Alkanetic Framework.
+This index lists reference documents in the Alkanetic Framework.
 
-## Format
+## Registered documents
 
-| ID      | Title             | Section | Status   | Last Updated |
-| ------- | ----------------- | ------- | -------- | ------------ |
-| REF-001 | Example Reference | section | approved | YYYY-MM-DD   |
-
----
-
-## Registered Reference Documents
-
-_No reference documents registered yet._
+| ID | Resource | Status | Last updated |
+| --- | --- | --- | --- |
+| DEP-REF-001 | [Troubleshoot Next.js on Cloudflare Workers](../deployment/cloudflare-workers-nextjs-troubleshooting.md) | review | 2026-11-22 |

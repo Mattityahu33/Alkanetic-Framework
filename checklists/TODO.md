@@ -1,7 +1,7 @@
 # Checklists — TODO
 
 **Status:** Planning
-**Last Updated:** 2026-08-02
+**Last Updated:** 2026-11-22
 
 ---
 
@@ -30,6 +30,8 @@ Tracks all planned documents for `checklists/`.
 ## Current Status
 
 No checklists written. Scaffold only (v0.1.0).
+
+Cloudflare Workers guidance is in review. See [the section index](INDEX.md).
 
 ---
 

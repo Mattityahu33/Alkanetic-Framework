@@ -1,7 +1,7 @@
 # Templates — Index
 
 **Status:** Scaffold
-**Last Updated:** 2026-08-02
+**Last Updated:** 2026-11-22
 
 ---
 
@@ -17,6 +17,7 @@ Navigation guide for all documents within `templates/`.
 | ----------- | -------- | ------ | -------------------------------- |
 | `README.md` | Overview | Active | Section purpose and scope        |
 | `TODO.md`   | Planning | Active | Planned templates and priorities |
+| [OpenNext and Wrangler configuration templates](cloudflare-workers-nextjs.md) | template | Review | Next.js on Cloudflare Workers |
 
 ---
 

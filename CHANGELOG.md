@@ -25,4 +25,9 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Added
+
+- Cloudflare Workers deployment SOP, Next.js quick start, OpenNext and Wrangler templates, troubleshooting reference, release checklist, and coding agent prompt. Local build and runtime guidance is in review. Hosted release checks are listed separately.
+- Registered the six resources in their section and resource indexes.
+
 Changes planned but not yet merged are tracked in per-section `TODO.md` files and in [ROADMAP.md](./ROADMAP.md).
