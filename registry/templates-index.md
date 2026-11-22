@@ -1,20 +1,15 @@
 # Templates Index
 
-**Status:** Placeholder — Not Yet Populated
-**Last Updated:** 2026-08-02
+**Status:** Active
+**Last Updated:** 2026-11-22
 
 ---
 
-This index will list all approved templates in the Alkanetic Framework.
+This index lists templates in the Alkanetic Framework.
 
-## Format
+## Registered documents
 
-| ID      | Title            | Section   | Status   | Version | Last Updated |
-| ------- | ---------------- | --------- | -------- | ------- | ------------ |
-| TPL-001 | Example Template | templates | approved | 1.0.0   | YYYY-MM-DD   |
-
----
-
-## Registered Templates
-
-_No templates registered yet._
+| ID | Resource | Status | Last updated |
+| --- | --- | --- | --- |
+| TPL-DEP-001 | [OpenNext and Wrangler configuration templates](../templates/cloudflare-workers-nextjs.md) | review | 2026-11-22 |
+| AI-TPL-001 | [Coding agent prompt for Next.js on Cloudflare Workers](../ai-operations/prompts/cloudflare-workers-nextjs.md) | review | 2026-11-22 |

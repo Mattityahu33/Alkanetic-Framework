@@ -1,7 +1,7 @@
 # Deployment — Index
 
 **Status:** Scaffold
-**Last Updated:** 2026-08-02
+**Last Updated:** 2026-11-22
 
 ---
 
@@ -17,6 +17,8 @@ Navigation guide for all documents within `deployment/`.
 | ----------- | -------- | ------ | ---------------------------- |
 | `README.md` | Overview | Active | Section purpose and scope    |
 | `TODO.md`   | Planning | Active | Planned deployment standards |
+| [Cloudflare Workers and Next.js quick start](cloudflare-workers-nextjs-quickstart.md) | guide | Review | Next.js on Cloudflare Workers |
+| [Troubleshoot Next.js on Cloudflare Workers](cloudflare-workers-nextjs-troubleshooting.md) | reference | Review | Next.js on Cloudflare Workers |
 
 ---
 

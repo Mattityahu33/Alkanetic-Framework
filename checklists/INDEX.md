@@ -1,7 +1,7 @@
 # Checklists — Index
 
 **Status:** Scaffold
-**Last Updated:** 2026-08-02
+**Last Updated:** 2026-11-22
 
 ---
 
@@ -17,6 +17,7 @@ Navigation guide for all documents within `checklists/`.
 | ----------- | -------- | ------ | --------------------------------- |
 | `README.md` | Overview | Active | Section purpose and scope         |
 | `TODO.md`   | Planning | Active | Planned checklists and priorities |
+| [Cloudflare Workers release checklist for Next.js](cloudflare-workers-nextjs.md) | checklist | Review | Next.js on Cloudflare Workers |
 
 ---
 

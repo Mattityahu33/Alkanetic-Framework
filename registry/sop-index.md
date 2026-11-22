@@ -1,20 +1,14 @@
 # SOP Index
 
-**Status:** Placeholder — Not Yet Populated
-**Last Updated:** 2026-08-02
+**Status:** Active
+**Last Updated:** 2026-11-22
 
 ---
 
-This index will list all approved SOPs in the Alkanetic Framework.
+This index lists SOPs in the Alkanetic Framework.
 
-## Format
+## Registered documents
 
-| ID      | Title       | Section | Status   | Version | Last Updated |
-| ------- | ----------- | ------- | -------- | ------- | ------------ |
-| SOP-001 | Example SOP | sop     | approved | 1.0.0   | YYYY-MM-DD   |
-
----
-
-## Registered SOPs
-
-_No SOPs registered yet._
+| ID | Resource | Status | Last updated |
+| --- | --- | --- | --- |
+| SOP-DEP-001 | [Deploy Next.js to Cloudflare Workers](../sop/cloudflare-workers-nextjs.md) | review | 2026-11-22 |

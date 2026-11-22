@@ -1,7 +1,7 @@
 # SOP — Index
 
 **Status:** Scaffold
-**Last Updated:** 2026-08-02
+**Last Updated:** 2026-11-22
 
 ---
 
@@ -17,6 +17,7 @@ Navigation guide for all documents within `sop/`.
 | ----------- | -------- | ------ | --------------------------- |
 | `README.md` | Overview | Active | Section purpose and scope   |
 | `TODO.md`   | Planning | Active | Planned SOPs and priorities |
+| [Deploy Next.js to Cloudflare Workers](cloudflare-workers-nextjs.md) | sop | Review | Next.js on Cloudflare Workers |
 
 ---
 

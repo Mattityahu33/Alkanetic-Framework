@@ -1,7 +1,7 @@
 # AI Operations — Index
 
 **Status:** Scaffold
-**Last Updated:** 2026-08-02
+**Last Updated:** 2026-11-22
 
 ---
 
@@ -33,6 +33,7 @@ Navigation guide for the `ai-operations/` section and all subfolders.
 | File        | Type     | Status |
 | ----------- | -------- | ------ |
 | `README.md` | Overview | Active |
+| [Coding agent prompt for Next.js on Cloudflare Workers](prompts/cloudflare-workers-nextjs.md) | template | Review |
 
 ---
 
